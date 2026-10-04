@@ -1,1 +1,36 @@
-index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>JCA Homes – Quick Property Sale</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <div><strong>JCA Homes</strong></div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="how-it-works.html">How It Works</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<div class="hero">
+  <h1>Sell Your Home Quickly & Hassle‑Free</h1>
+  <p>We offer UK homeowners a guaranteed, stress‑free sale with certainty, speed and transparency.</p>
+  <a class="button" href="contact.html">Get Your Offer</a>
+</div>
+
+<div class="section">
+  <h2>A Modern, Guaranteed Sale</h2>
+  <p>JCA Homes provides a fast, reliable and secure route for homeowners who want certainty. No estate agents, no viewings, no delays — just a guaranteed offer and a smooth completion.</p>
+</div>
+
+<footer>
+  © JCA Homes – Quick Property Buying Specialists
+</footer>
+
+</body>
+</html>

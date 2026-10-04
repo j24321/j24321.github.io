@@ -1,1 +1,32 @@
-about.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Us – JCA Homes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <div><strong>JCA Homes</strong></div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="how-it-works.html">How It Works</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<div class="section">
+  <h2>About JCA Homes</h2>
+  <p>JCA Homes is a UK‑based property buying company specialising in fast, guaranteed sales for homeowners who value certainty and simplicity.</p>
+
+  <p>We operate with transparency, fairness and professionalism. Our bespoke arrangements allow sellers to move on quickly without the stress of the open market.</p>
+</div>
+
+<footer>
+  © JCA Homes – Quick Property Buying Specialists
+</footer>
+
+</body>
+</html>
